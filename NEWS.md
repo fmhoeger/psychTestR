@@ -1,3 +1,7 @@
+# psychTestR 2.22.0
+
+- Allow `problems_info` to be rendered as HTML.
+
 # psychTestR 2.21.2
 
 - Forcing language identifiers to be lower-case for consistency with ISO conventions.
